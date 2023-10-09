@@ -3,7 +3,7 @@
 
 manifest:
   self:
-    path: lost-elf
+    path: nanopb-demo
     west-commands: scripts/west-commands.yml
 
   remotes:
