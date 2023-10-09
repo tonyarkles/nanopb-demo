@@ -18,5 +18,6 @@ manifest:
         path-allowlist:
         - modules/hal/espressif
         - bootloader/mcuboot
+        - modules/lib/nanopb
         - modules/crypto/tinycrypt
         - modules/crypto/mbedtls
