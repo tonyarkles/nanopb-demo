@@ -2,7 +2,7 @@
 # Cloning and Building
 
 ```
-west init -m git@github.com:tonyarkles/nanopb-demo.git nanopb-demo-workspace
+west init -m https://github.com/tonyarkles/nanopb-demo.git nanopb-demo-workspace
 cd nanopb-demo-workspace
 west update
 cd nanopb-demo
