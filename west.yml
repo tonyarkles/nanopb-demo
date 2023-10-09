@@ -2,6 +2,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 manifest:
+  group-filter: [+optional]
   self:
     path: nanopb-demo
     west-commands: scripts/west-commands.yml

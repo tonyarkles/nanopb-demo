@@ -3,5 +3,5 @@ import 'nanopb.proto';
 
 message Hello {
   uint64 time = 1;
-  bytes msesages = 2;
+  uint64 val = 2;
 }
